@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PEParser": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\timur\\OneDrive\\Рабочий стол\\binarie files\\Задания\\Формат PE файла\\files\\PE1.dll\" \"C:\\Users\\timur\\OneDrive\\Рабочий стол\\binarie files\\Задания\\Формат PE файла\\files\\PE2.exe\""
+    }
+  }
+}

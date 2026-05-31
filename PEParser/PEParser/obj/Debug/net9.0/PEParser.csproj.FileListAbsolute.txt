@@ -1,0 +1,14 @@
+C:\Users\timur\source\repos\PEParser\PEParser\bin\Debug\net9.0\PEParser.exe
+C:\Users\timur\source\repos\PEParser\PEParser\bin\Debug\net9.0\PEParser.deps.json
+C:\Users\timur\source\repos\PEParser\PEParser\bin\Debug\net9.0\PEParser.runtimeconfig.json
+C:\Users\timur\source\repos\PEParser\PEParser\bin\Debug\net9.0\PEParser.dll
+C:\Users\timur\source\repos\PEParser\PEParser\bin\Debug\net9.0\PEParser.pdb
+C:\Users\timur\source\repos\PEParser\PEParser\obj\Debug\net9.0\PEParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\source\repos\PEParser\PEParser\obj\Debug\net9.0\PEParser.AssemblyInfoInputs.cache
+C:\Users\timur\source\repos\PEParser\PEParser\obj\Debug\net9.0\PEParser.AssemblyInfo.cs
+C:\Users\timur\source\repos\PEParser\PEParser\obj\Debug\net9.0\PEParser.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\PEParser\PEParser\obj\Debug\net9.0\PEParser.dll
+C:\Users\timur\source\repos\PEParser\PEParser\obj\Debug\net9.0\refint\PEParser.dll
+C:\Users\timur\source\repos\PEParser\PEParser\obj\Debug\net9.0\PEParser.pdb
+C:\Users\timur\source\repos\PEParser\PEParser\obj\Debug\net9.0\PEParser.genruntimeconfig.cache
+C:\Users\timur\source\repos\PEParser\PEParser\obj\Debug\net9.0\ref\PEParser.dll
